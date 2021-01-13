@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+img {
+   width: 450px;
+   height: 450px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: chartreuse;
+}
